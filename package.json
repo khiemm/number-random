@@ -1,5 +1,5 @@
 {
-  "name": "number-random",
+  "name": "@khiemm/number-random",
   "version": "1.0.0",
   "description": "for purpose create a npm package about number algorithms",
   "main": "index.js",
@@ -31,5 +31,8 @@
   "bugs": {
     "url": "https://github.com/khiemm/number-random/issues"
   },
-  "homepage": "https://github.com/khiemm/number-random#readme"
+  "homepage": "https://github.com/khiemm/number-random#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@khiemm"
+  }
 }
